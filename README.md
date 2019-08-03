@@ -4,6 +4,17 @@ NLP培训课程作业
 
 课程作业链接：https://github.com/Computing-Intelligence/jupyters_and_slides/tree/master/2019-summer/assignments
 
+Lesson-02 Assignment 
+======
+最近更新 , 2019-8-4
+
+1. subway_search.py : 地铁线路爬取数据、搜索策略，已提交，2019-8-4
+
+2. nlp_assignment_2.ipynb : 梯度部分作业 ，已提交，2019-8-4
+
+3. beijing_subway_geo_true.txt/beijing_subway_line_true.txt : 地铁线路、经纬度数据，已提交，2019-8-4
+
+
 Lesson-01 Assignment 
 ======
 最近更新 , 2019-7-8
