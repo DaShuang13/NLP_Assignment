@@ -77,7 +77,7 @@ def tsne_plot(model,stop_words,thred=1000):
         plt.scatter(x[i],y[i])
         # print(i)
         # print(x[i],y[i])
-        # plt.annotate(word[i],xy=(x[i],y[i]),textcoords="offset points",ha="right",va="bottom")
+        # plt.annotate(words[i],xy=(x[i],y[i]),textcoords="offset points",ha="right",va="bottom")
     plt.show()
 
 
