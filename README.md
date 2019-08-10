@@ -4,6 +4,18 @@ NLP培训课程作业
 
 课程作业链接：https://github.com/Computing-Intelligence/jupyters_and_slides/tree/master/2019-summer/assignments
 
+
+Lesson-04 Assignment 
+======
+最近更新 , 2019-8-10
+
+1. nlp_assignment_4.py : 画图失败，模型完成，已提交，2019-8-10
+
+2. word2vec.model: 词向量模型版未提交，文件大提交失败，后续研究好补上
+
+3. word2vec.txt: 词向量文件版未提交，文件大提交失败，后续研究好补上
+
+
 Lesson-02 Assignment 
 ======
 最近更新 , 2019-8-4
