@@ -12,6 +12,8 @@ import logging
 from langconv import *
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
+import matplotlib as mpl
+mpl.use('TkAgg')
 import codecs
 def softmax(vec):
     """
@@ -77,7 +79,7 @@ def tsne_plot(model,stop_words,thred=1000):
         plt.scatter(x[i],y[i])
         # print(i)
         # print(x[i],y[i])
-        # plt.annotate(words[i],xy=(x[i],y[i]),textcoords="offset points",ha="right",va="bottom")
+        # plt.annotate(words[i],xy=(x[i],y[i]),xytext=(5, 2),textcoords="offset points",ha="right",va="bottom")
     plt.show()
 
 
